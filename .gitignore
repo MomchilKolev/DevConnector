@@ -2,3 +2,4 @@
 /config
 package-lock.json
 /.vscode
+/client/node_modules
